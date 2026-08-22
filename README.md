@@ -1,4 +1,3 @@
-# atelier_scikit-learn_iot
 # Atelier Scikit-learn – Classification de l'état des capteurs IoT
 
 ## 📋 Contexte
